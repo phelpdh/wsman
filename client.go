@@ -31,8 +31,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/VictorLowther/simplexml/dom"
-	"github.com/VictorLowther/soap"
+	"github.com/phelpdh/simplexml/dom"
+	"github.com/phelpdh/soap"
 )
 
 type challenge struct {
