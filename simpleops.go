@@ -18,8 +18,8 @@ limitations under the License.
 
 import (
 	"fmt"
-	"github.com/VictorLowther/simplexml/dom"
-	"github.com/VictorLowther/simplexml/search"
+	"github.com/phelpdh/simplexml/dom"
+	"github.com/phelpdh/simplexml/search"
 	"path"
 	"strings"
 )

@@ -24,8 +24,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/VictorLowther/simplexml/dom"
-	"github.com/VictorLowther/wsman"
+	"github.com/phelpdh/simplexml/dom"
+	"github.com/phelpdh/wsman"
 )
 
 const (

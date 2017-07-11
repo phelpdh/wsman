@@ -21,9 +21,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/VictorLowther/simplexml/dom"
-	"github.com/VictorLowther/simplexml/search"
-	"github.com/VictorLowther/soap"
+	"github.com/phelpdh/simplexml/dom"
+	"github.com/phelpdh/simplexml/search"
+	"github.com/phelpdh/soap"
 	uuid "github.com/satori/go.uuid"
 )
 
