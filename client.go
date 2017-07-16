@@ -180,7 +180,7 @@ func NewClient(target, username, password string, useDigest bool) *Client {
 		password:  password,
 		useDigest: useDigest,
 	}
-	res.Timeout = 10 * time.Second
+	res.Timeout = 20 * time.Second
 	res.Transport = &http.Transport{
 		TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
 	}
